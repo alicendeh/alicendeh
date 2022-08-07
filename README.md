@@ -1,4 +1,4 @@
-<h1 align="center">Hi I am Alice Ndeh,<img width="30" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="waving" />, A Software Developer</h1>
+<h1 align="center">Hi i am **Alice Ndeh** ,<img width="30" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="waving" />, A Software Developer</h1>
 <h3 align="center">A Software engineer, passionate about tech</h3>
 
 <p align="left"> <a href="https://twitter.com/NdehAlice" target="blank"><img src="https://img.shields.io/twitter/follow/alicendeh?logo=twitter&style=for-the-badge" alt="alicendeh" /></a> </p>
