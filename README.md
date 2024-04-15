@@ -1,9 +1,9 @@
-<h1 align="center">Hi  <img width="30" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="waving" /> i am Alice Ndeh, A Software Developer</h1>
-<h3 align="center">A Software engineer, passionate about tech</h3>
+<h1 align="center">Hi  <img width="30" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="waving" /> I am Alice Ndeh</h1>
+<h3 align="center">A young Techpreneur </h3>
 
 <p align="left"> <a href="https://twitter.com/NdehAlice" target="blank"><img src="https://img.shields.io/twitter/follow/alicendeh?logo=twitter&style=for-the-badge" alt="alicendeh" /></a> </p>
 
-- 🌱 I’m work on both **Backend Development and Frontend Development**
+- 🌱 I build **Backend Development and Frontend Development**
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/alicendeh?tab=repositories)
 
